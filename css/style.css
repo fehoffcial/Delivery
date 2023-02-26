@@ -130,7 +130,10 @@ body{
     width: 90px;
     padding: 10px;
     border: 1px solid transparent;
-    border-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
     margin: 10px;
     background-color: #ea1d2bc7;
     color: #FFF;
