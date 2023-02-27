@@ -142,6 +142,9 @@ body{
 [class^="btn-ifood"]:hover{
     background-color: #EA1D2C;
 }
+.btn-a{
+    color: #FFF;
+}
 /**/
 .main-bar-ifood{
     width: 50%;
