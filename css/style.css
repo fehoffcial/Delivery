@@ -23,7 +23,7 @@ body{
 }
 .conteiner{
     width: 100vw;
-    height: 100vh;
+    height: 96vh;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -147,7 +147,7 @@ body{
 }
 .main-bar-ifood{
     width: 50%;
-    height: 44%;
+    height: 70%;
 
 }
 .ifood-row{
